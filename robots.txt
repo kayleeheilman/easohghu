@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aecahghoo.caueferreira.com/sitemap.xml
